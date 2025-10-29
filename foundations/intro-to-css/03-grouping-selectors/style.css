@@ -2,10 +2,12 @@
     font-size: 28px;
     font-family: Helvetica, 'Times New Roman', sans-serif;
 }
+
 .click.black {
     background-color: black;
     color: white;
 }
+
 .click.yellow {
     background-color: yellow;
 }
