@@ -1,1 +1,8 @@
-/* Add CSS Styling */
+.impar {
+    background-color: #F00A0A;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.impar.cooler {
+    font-size: 24px;
+}
