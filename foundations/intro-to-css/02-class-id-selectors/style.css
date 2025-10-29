@@ -6,3 +6,14 @@
 .impar.cooler {
     font-size: 24px;
 }
+
+#numbertwo {
+    color: #27B7F5;
+    font-size: 36px;
+}
+
+#numberfour {
+    background-color: #27F5B0;
+    font-size: 24px;
+    font-weight: bold;
+}
